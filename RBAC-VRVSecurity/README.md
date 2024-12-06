@@ -23,7 +23,7 @@ This project is a simple **User Management System** built with **React-JS**. It 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/gaurav-026/RBAC-VRV
+   git clone https://github.com/gaurav-026/RBAC-VRV.git
 
 2. **Install dependencies:**
 
